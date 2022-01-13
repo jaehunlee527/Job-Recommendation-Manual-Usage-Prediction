@@ -4,5 +4,11 @@
 
 ## Data
 (Be aware that since this is a local competition in Korea, some of the texts are originally written in Korean.)
+* train.csv
+* test.csv
+* Property_D_code.csv: Template for sub-categories value matching for each value in the D attribute 
+* Property_H_code.csv: Template for sub-categories value matching for each value in the H attribute
+* Property_L_code.csv: Template for sub-categories value matching for each value in the L attribute
+
 
 ## Models
